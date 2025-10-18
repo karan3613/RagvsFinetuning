@@ -13,7 +13,7 @@ You can **train, test, and compare** both approaches on the *same dataset* — i
 ## 🎥 Working Video 
 
 📺 **Watch how it works:**  
-👉 [Click to view working video](https://drive.google.com/file/d/11hmcey6QjkkjSLkpD5cE04hUA5ExKpBf/view?usp=sharing)
+👉 [](https://drive.google.com/file/d/11hmcey6QjkkjSLkpD5cE04hUA5ExKpBf/view?usp=sharing)
 ---
 
 ## 💼 LinkedIn Post
