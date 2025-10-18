@@ -12,9 +12,8 @@ You can **train, test, and compare** both approaches on the *same dataset* — i
 
 ## 🎥 Working Video 
 
-📺 **Watch how it works:**  
-👉 [Click Here](https://drive.google.com/file/d/11hmcey6QjkkjSLkpD5cE04hUA5ExKpBf/view?usp=sharing)
----
+📺 [**Watch how it works:**  ](https://drive.google.com/file/d/11hmcey6QjkkjSLkpD5cE04hUA5ExKpBf/view?usp=sharing)
+
 
 ## 💼 LinkedIn Post
 
